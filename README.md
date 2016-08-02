@@ -17,6 +17,10 @@
 [coding.net]: http://i.imgur.com/JDpN8Bd.png
 [coding-link]: https://coding.net/u/scaffrey/p/hosts/git "Coding"
 [mirror_of_hosts]: https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts
+##关于host配置
+配置hosts文件，https://github.com/racaljk/hosts 这个是hosts文件
+这是上面的链接推荐的host-tool，https://github.com/racaljk/hosts/tree/master/tools，大家也可以考虑使用
+按照说明配置完毕后，打开 https://www.google.com/ncr 就可以访问google。如果还不行，需要清理浏览器缓存
 
 ## 更新 hosts
 * 下面介绍的操作均可能覆盖现有 hosts ，进行操作前请先确认是否需要备份。
